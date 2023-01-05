@@ -34,3 +34,6 @@
 
 - To run the game you should add the ```JavaFX``` library to the project and run the ```Main``` class.
 
+
+- You can find the source code in src directory
+
