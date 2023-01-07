@@ -32,8 +32,13 @@
 - I used **Recursion** and **Backtracking** to get the best move and undo the move after calculating it, then choose the best cell to play.
 
 
-- To run the game you should add the ```JavaFX``` library to the project and run the ```Main``` class.
-
 
 - You can find the source code in ```src``` directory
 
+
+## 🚀&nbsp; Installation
+1. Install JavaFx from webiste [openFX](https://openjfx.io/openjfx-docs/) and follow the steps for the IDE you use.
+
+2. Add Ant build tool to your project.
+
+3. Run the ```Main``` Class.
