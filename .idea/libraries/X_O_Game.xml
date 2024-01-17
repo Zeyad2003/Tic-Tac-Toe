@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="X-O_Game">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/dist/X-O_Game.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
